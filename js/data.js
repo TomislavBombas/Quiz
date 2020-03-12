@@ -12,7 +12,8 @@ const questions = [
         1,
         0,
         0
-    ]
+    ],
+    b: "back1.jpg"
     }//  END QUESTION--------------------
     ,
     {//  BEGIN QUESTION--------------------
@@ -28,6 +29,7 @@ const questions = [
         2,
         0,
         0
-    ]
+    ],
+    b: "back2.jpg"
     }//  END QUESTION--------------------
 ]
